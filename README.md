@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes Kaşıkcı</h1>
 <h3 align="center">Cloud Software Engineer @Airties</h3>
 
-- 📫 How to reach me **eneskasikci@outlook.com.tr**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eneskasikci&label=Profile%20views&color=0e75b6&style=flat" alt="eneskasikci" /> </p>
 
 <h3 align="left">Connect with me:</h3>
